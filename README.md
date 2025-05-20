@@ -7,7 +7,7 @@ A Python-based project showcasing two approaches to text generation:
 ## Project Details  
 - **Company:** CODETECH IT SOLUTIONS  
 - **Intern Name:** Aalay Kabariya 
-- **Intern ID:** C0DF49  
+- **Intern ID:** C0DF239
 - **Domain:** Artificial Intelligence  
 - **Duration:** 4 Weeks  
 - **Mentor:** Neela Santosh  
